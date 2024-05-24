@@ -1,0 +1,4 @@
+jfp->uttara=100
+jfp->badda=50
+jfp->framgate=200
+uttara->motijhil=50
